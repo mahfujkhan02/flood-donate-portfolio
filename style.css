@@ -38,3 +38,33 @@ h1{
     border-radius: 5px;
 
   }
+  .name-area{
+    font-size: 80px;
+    text-align: center;
+  }
+ .area{
+    font-size: 20px;
+    text-align: center;
+ }
+
+
+
+  
+
+ 
+ 
+  .experience-item{
+    text-align: center;
+    
+    width: 40%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 10px red;
+    border-radius: 10px;
+   
+  }
+
+
+
+ 
